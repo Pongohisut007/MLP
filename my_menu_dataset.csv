@@ -1,0 +1,501 @@
+hour,weekday,budget,last_time_eaten,group_size,temperature,rain,music_mood,menu,travel
+10,Thu,64,05/10/2025,3,28,0,Happy,Khao Man Gai,0
+10,Wed,61,10/10/2025,2,28,1,Happy,Pad Thai,1
+20,Tue,55,10/10/2025,3,27,1,Relax,Fried Rice with Shrimp,1
+15,Mon,66,03/10/2025,1,30,0,Relax,Crab Stick Salad Sandwich,1
+15,Wed,64,08/10/2025,4,30,1,Relax,Green Curry with Chicken,1
+20,Tue,53,02/10/2025,3,28,1,Relax,Fried Rice with Shrimp,0
+10,Wed,62,10/10/2025,1,28,1,Energetic,Khao Man Gai,1
+20,Sat,55,01/10/2025,3,28,0,Sad,Tom Yum Soup,0
+20,Sat,50,06/10/2025,1,27,1,Sad,Som Tum,1
+15,Wed,67,01/10/2025,4,30,0,Chill,Massaman Curry,0
+10,Sun,61,03/10/2025,3,27,1,Happy,Stir-fried Basil Chicken,1
+10,Fri,57,07/10/2025,3,28,0,Happy,Khao Man Gai,0
+10,Mon,58,04/10/2025,3,28,1,Happy,Khao Man Gai,0
+10,Sat,65,03/10/2025,5,29,0,Happy,Khao Man Gai,0
+15,Mon,61,07/10/2025,1,29,0,Relax,Massaman Curry,1
+20,Sun,52,02/10/2025,3,28,0,Sad,Tom Yum Soup,0
+10,Mon,58,02/10/2025,2,27,1,Happy,Pad Thai,1
+20,Sun,58,05/10/2025,5,26,1,Chill,Tom Yum Soup,1
+10,Tue,62,03/10/2025,4,29,0,Energetic,Stir-fried Basil Chicken,1
+20,Sat,60,04/10/2025,1,27,1,Relax,Tom Yum Soup,1
+20,Wed,50,05/10/2025,1,28,1,Sad,Fried Rice with Shrimp,0
+15,Tue,63,06/10/2025,2,30,0,Chill,Massaman Curry,1
+15,Mon,69,09/10/2025,3,29,1,Relax,Crab Stick Salad Sandwich,0
+10,Mon,55,02/10/2025,2,27,0,Energetic,Pad Thai,0
+15,Wed,66,02/10/2025,3,30,1,Relax,Massaman Curry,1
+15,Wed,60,05/10/2025,1,30,1,Chill,Crab Stick Salad Sandwich,1
+20,Thu,59,02/10/2025,5,26,1,Sad,Fried Rice with Shrimp,0
+15,Sat,62,01/10/2025,3,30,1,Chill,Green Curry with Chicken,1
+20,Mon,58,04/10/2025,1,27,0,Sad,Tom Yum Soup,1
+15,Thu,63,01/10/2025,2,30,0,Chill,Green Curry with Chicken,1
+15,Mon,70,09/10/2025,2,29,1,Relax,Crab Stick Salad Sandwich,1
+10,Fri,57,03/10/2025,5,27,0,Happy,Pad Thai,0
+20,Tue,51,10/10/2025,2,27,0,Chill,Tom Yum Soup,1
+20,Sun,56,09/10/2025,1,28,0,Sad,Fried Rice with Shrimp,1
+10,Sun,62,09/10/2025,3,29,0,Energetic,Pad Thai,0
+20,Wed,52,09/10/2025,2,27,0,Relax,Som Tum,0
+20,Mon,57,02/10/2025,4,27,0,Relax,Tom Yum Soup,0
+20,Thu,60,01/10/2025,2,28,1,Sad,Som Tum,0
+10,Wed,57,07/10/2025,5,28,0,Happy,Khao Man Gai,1
+10,Fri,62,02/10/2025,1,28,1,Energetic,Stir-fried Basil Chicken,1
+20,Tue,50,08/10/2025,4,28,0,Chill,Tom Yum Soup,0
+15,Thu,68,04/10/2025,2,29,1,Relax,Green Curry with Chicken,0
+20,Tue,52,05/10/2025,4,27,1,Sad,Fried Rice with Shrimp,1
+20,Tue,59,01/10/2025,4,27,1,Relax,Fried Rice with Shrimp,0
+15,Tue,69,08/10/2025,4,29,1,Chill,Massaman Curry,0
+10,Fri,56,08/10/2025,5,29,0,Happy,Khao Man Gai,0
+10,Thu,63,08/10/2025,5,27,0,Energetic,Khao Man Gai,0
+20,Mon,55,01/10/2025,4,27,0,Chill,Som Tum,0
+15,Mon,67,05/10/2025,2,29,1,Relax,Green Curry with Chicken,0
+20,Thu,52,10/10/2025,4,27,0,Chill,Tom Yum Soup,1
+20,Thu,59,10/10/2025,2,28,0,Sad,Fried Rice with Shrimp,1
+10,Fri,58,09/10/2025,1,27,1,Happy,Stir-fried Basil Chicken,0
+20,Mon,54,04/10/2025,1,28,1,Sad,Tom Yum Soup,1
+20,Fri,52,08/10/2025,5,27,1,Sad,Som Tum,0
+10,Mon,64,03/10/2025,1,27,0,Happy,Stir-fried Basil Chicken,0
+20,Sat,50,02/10/2025,3,27,1,Chill,Fried Rice with Shrimp,1
+15,Mon,62,05/10/2025,3,29,0,Relax,Massaman Curry,0
+20,Sun,56,08/10/2025,1,28,0,Relax,Som Tum,1
+10,Mon,65,08/10/2025,3,27,1,Happy,Stir-fried Basil Chicken,1
+15,Mon,68,07/10/2025,4,29,1,Relax,Crab Stick Salad Sandwich,1
+20,Fri,54,05/10/2025,1,26,0,Chill,Tom Yum Soup,0
+15,Sat,62,08/10/2025,1,29,0,Relax,Massaman Curry,1
+10,Wed,62,04/10/2025,3,27,0,Energetic,Pad Thai,0
+15,Thu,67,04/10/2025,4,29,1,Relax,Massaman Curry,1
+10,Thu,56,07/10/2025,2,28,0,Happy,Stir-fried Basil Chicken,1
+15,Fri,63,09/10/2025,3,29,0,Relax,Massaman Curry,0
+20,Sun,60,07/10/2025,2,27,0,Relax,Som Tum,0
+15,Mon,68,04/10/2025,3,29,1,Relax,Green Curry with Chicken,0
+20,Wed,59,06/10/2025,1,28,0,Relax,Fried Rice with Shrimp,0
+20,Thu,57,07/10/2025,3,26,1,Sad,Tom Yum Soup,1
+20,Sat,55,09/10/2025,1,28,1,Relax,Fried Rice with Shrimp,0
+10,Wed,56,06/10/2025,2,27,1,Happy,Khao Man Gai,0
+15,Fri,69,03/10/2025,5,30,0,Chill,Crab Stick Salad Sandwich,1
+10,Thu,64,03/10/2025,1,28,1,Happy,Pad Thai,1
+20,Fri,50,04/10/2025,2,28,1,Chill,Fried Rice with Shrimp,1
+15,Fri,66,09/10/2025,5,30,0,Relax,Crab Stick Salad Sandwich,1
+10,Sun,59,02/10/2025,1,27,1,Energetic,Stir-fried Basil Chicken,0
+20,Sat,55,04/10/2025,5,28,1,Sad,Som Tum,1
+15,Sun,69,03/10/2025,5,30,1,Relax,Massaman Curry,0
+20,Fri,59,01/10/2025,5,27,0,Sad,Fried Rice with Shrimp,0
+10,Sat,63,02/10/2025,5,29,1,Energetic,Stir-fried Basil Chicken,0
+20,Sun,60,05/10/2025,2,26,1,Chill,Fried Rice with Shrimp,1
+20,Tue,58,07/10/2025,5,28,1,Sad,Tom Yum Soup,1
+15,Tue,60,04/10/2025,3,30,0,Chill,Crab Stick Salad Sandwich,1
+20,Tue,56,03/10/2025,5,28,0,Relax,Som Tum,1
+10,Thu,64,03/10/2025,1,27,1,Happy,Khao Man Gai,0
+20,Fri,58,07/10/2025,1,26,1,Chill,Som Tum,1
+10,Sun,59,02/10/2025,2,28,0,Happy,Pad Thai,1
+20,Tue,60,02/10/2025,3,26,0,Relax,Tom Yum Soup,0
+20,Sat,55,07/10/2025,4,27,1,Chill,Tom Yum Soup,1
+20,Fri,56,03/10/2025,4,27,1,Chill,Fried Rice with Shrimp,1
+20,Mon,54,03/10/2025,5,27,1,Sad,Som Tum,0
+15,Thu,69,06/10/2025,2,29,0,Chill,Crab Stick Salad Sandwich,0
+20,Fri,53,02/10/2025,4,28,0,Sad,Fried Rice with Shrimp,0
+20,Fri,56,03/10/2025,2,26,1,Relax,Tom Yum Soup,0
+20,Sat,56,10/10/2025,4,28,0,Sad,Som Tum,0
+15,Mon,61,08/10/2025,3,30,0,Chill,Crab Stick Salad Sandwich,1
+15,Sun,62,01/10/2025,5,30,1,Chill,Crab Stick Salad Sandwich,1
+15,Fri,60,09/10/2025,4,29,1,Chill,Green Curry with Chicken,0
+15,Sat,69,03/10/2025,4,29,1,Chill,Massaman Curry,0
+10,Mon,64,05/10/2025,1,27,0,Happy,Stir-fried Basil Chicken,1
+10,Sat,59,07/10/2025,3,27,1,Energetic,Stir-fried Basil Chicken,1
+20,Wed,50,10/10/2025,4,28,1,Chill,Fried Rice with Shrimp,0
+15,Sun,66,10/10/2025,4,29,0,Chill,Green Curry with Chicken,0
+10,Sat,57,04/10/2025,2,27,1,Happy,Khao Man Gai,0
+15,Mon,69,09/10/2025,4,30,0,Chill,Crab Stick Salad Sandwich,1
+20,Thu,52,06/10/2025,2,27,0,Relax,Tom Yum Soup,0
+20,Tue,50,07/10/2025,2,27,0,Relax,Tom Yum Soup,0
+20,Sat,56,02/10/2025,3,26,0,Chill,Fried Rice with Shrimp,0
+15,Tue,68,03/10/2025,2,29,1,Chill,Green Curry with Chicken,1
+10,Thu,60,10/10/2025,1,27,1,Happy,Stir-fried Basil Chicken,1
+15,Tue,65,01/10/2025,2,29,1,Chill,Massaman Curry,1
+15,Fri,68,05/10/2025,5,30,0,Relax,Crab Stick Salad Sandwich,0
+10,Sat,59,04/10/2025,1,29,1,Happy,Pad Thai,0
+15,Fri,61,09/10/2025,1,29,0,Relax,Crab Stick Salad Sandwich,1
+10,Mon,55,06/10/2025,2,27,0,Happy,Pad Thai,0
+20,Wed,60,04/10/2025,1,26,1,Relax,Tom Yum Soup,1
+15,Sun,66,03/10/2025,3,29,0,Relax,Massaman Curry,0
+20,Sun,59,06/10/2025,3,27,1,Sad,Som Tum,0
+20,Sun,51,03/10/2025,4,28,0,Chill,Fried Rice with Shrimp,1
+20,Sun,52,03/10/2025,4,26,0,Chill,Fried Rice with Shrimp,0
+15,Thu,67,07/10/2025,3,30,0,Relax,Green Curry with Chicken,0
+10,Wed,59,02/10/2025,5,27,1,Energetic,Stir-fried Basil Chicken,1
+15,Sat,65,06/10/2025,4,29,1,Relax,Green Curry with Chicken,0
+10,Fri,58,09/10/2025,3,27,1,Energetic,Pad Thai,1
+20,Sat,60,05/10/2025,4,26,0,Chill,Fried Rice with Shrimp,1
+20,Thu,59,07/10/2025,3,27,1,Sad,Fried Rice with Shrimp,1
+10,Sat,55,03/10/2025,3,27,1,Energetic,Pad Thai,0
+20,Wed,54,08/10/2025,4,27,1,Sad,Fried Rice with Shrimp,1
+20,Sun,56,07/10/2025,3,28,1,Sad,Tom Yum Soup,0
+10,Tue,65,02/10/2025,3,29,1,Energetic,Stir-fried Basil Chicken,0
+10,Sun,55,04/10/2025,2,27,0,Energetic,Stir-fried Basil Chicken,0
+20,Sun,60,09/10/2025,1,26,0,Relax,Tom Yum Soup,0
+10,Tue,55,05/10/2025,2,29,0,Energetic,Pad Thai,1
+20,Mon,59,01/10/2025,1,27,1,Sad,Fried Rice with Shrimp,1
+10,Mon,59,03/10/2025,2,28,0,Energetic,Pad Thai,0
+20,Mon,53,03/10/2025,1,28,1,Chill,Som Tum,0
+10,Tue,59,05/10/2025,3,28,1,Happy,Stir-fried Basil Chicken,0
+20,Mon,50,10/10/2025,3,27,1,Sad,Tom Yum Soup,1
+15,Wed,62,08/10/2025,4,30,1,Chill,Massaman Curry,0
+15,Mon,68,08/10/2025,1,30,0,Chill,Green Curry with Chicken,1
+20,Fri,52,09/10/2025,5,26,0,Sad,Som Tum,0
+15,Mon,69,10/10/2025,1,29,1,Relax,Green Curry with Chicken,1
+15,Sun,61,02/10/2025,2,30,1,Relax,Crab Stick Salad Sandwich,1
+10,Thu,57,07/10/2025,1,28,0,Energetic,Stir-fried Basil Chicken,1
+15,Fri,68,04/10/2025,2,29,0,Chill,Crab Stick Salad Sandwich,1
+15,Sun,60,09/10/2025,1,30,0,Relax,Crab Stick Salad Sandwich,0
+15,Sat,70,03/10/2025,5,30,1,Relax,Massaman Curry,0
+15,Fri,64,05/10/2025,1,29,1,Relax,Crab Stick Salad Sandwich,0
+10,Thu,65,10/10/2025,1,28,1,Energetic,Khao Man Gai,1
+15,Sun,61,01/10/2025,4,30,0,Chill,Massaman Curry,1
+10,Thu,65,03/10/2025,4,29,1,Energetic,Pad Thai,1
+20,Sat,50,10/10/2025,3,27,0,Relax,Fried Rice with Shrimp,1
+15,Mon,64,10/10/2025,1,30,0,Chill,Massaman Curry,1
+15,Sat,63,06/10/2025,5,30,0,Relax,Massaman Curry,0
+15,Fri,65,03/10/2025,3,29,1,Chill,Green Curry with Chicken,0
+20,Sun,60,01/10/2025,2,28,0,Chill,Fried Rice with Shrimp,1
+15,Tue,68,01/10/2025,1,30,1,Relax,Green Curry with Chicken,0
+15,Thu,63,10/10/2025,3,30,1,Chill,Crab Stick Salad Sandwich,1
+15,Sat,67,09/10/2025,1,30,1,Relax,Massaman Curry,0
+15,Sun,63,05/10/2025,2,30,1,Relax,Crab Stick Salad Sandwich,0
+20,Fri,50,02/10/2025,2,26,1,Relax,Tom Yum Soup,0
+10,Thu,62,10/10/2025,4,28,1,Energetic,Pad Thai,0
+10,Tue,62,09/10/2025,1,29,1,Happy,Pad Thai,0
+10,Mon,62,06/10/2025,4,28,1,Energetic,Pad Thai,1
+20,Tue,52,09/10/2025,4,27,1,Relax,Tom Yum Soup,1
+15,Fri,66,10/10/2025,1,29,0,Relax,Crab Stick Salad Sandwich,1
+20,Tue,58,06/10/2025,4,28,1,Chill,Som Tum,0
+15,Thu,65,01/10/2025,1,30,0,Chill,Massaman Curry,0
+10,Wed,56,08/10/2025,1,28,0,Energetic,Stir-fried Basil Chicken,0
+15,Sat,61,01/10/2025,5,30,1,Relax,Green Curry with Chicken,1
+20,Tue,56,09/10/2025,4,28,0,Relax,Fried Rice with Shrimp,0
+15,Sat,61,02/10/2025,2,30,1,Relax,Green Curry with Chicken,0
+20,Sun,55,01/10/2025,5,27,1,Chill,Fried Rice with Shrimp,0
+10,Wed,58,03/10/2025,1,27,0,Energetic,Stir-fried Basil Chicken,1
+15,Sun,69,04/10/2025,2,29,0,Relax,Massaman Curry,0
+15,Sun,62,05/10/2025,2,29,1,Relax,Crab Stick Salad Sandwich,1
+15,Thu,60,10/10/2025,3,30,1,Relax,Green Curry with Chicken,0
+15,Sat,68,02/10/2025,3,30,1,Chill,Crab Stick Salad Sandwich,0
+20,Mon,55,08/10/2025,3,27,0,Sad,Fried Rice with Shrimp,0
+20,Sat,54,05/10/2025,5,26,1,Relax,Som Tum,1
+10,Sun,64,10/10/2025,1,28,1,Energetic,Pad Thai,0
+15,Sat,69,02/10/2025,2,30,1,Chill,Green Curry with Chicken,1
+10,Sat,64,04/10/2025,2,28,0,Energetic,Pad Thai,1
+10,Sun,65,06/10/2025,5,29,1,Happy,Khao Man Gai,0
+15,Sun,70,09/10/2025,4,29,0,Relax,Massaman Curry,1
+10,Mon,59,02/10/2025,3,29,0,Happy,Pad Thai,1
+15,Fri,62,08/10/2025,1,29,0,Chill,Massaman Curry,1
+15,Thu,66,03/10/2025,1,30,0,Relax,Green Curry with Chicken,0
+15,Mon,65,09/10/2025,1,29,0,Relax,Green Curry with Chicken,1
+15,Thu,64,01/10/2025,3,30,1,Relax,Green Curry with Chicken,1
+15,Tue,60,07/10/2025,3,29,0,Chill,Crab Stick Salad Sandwich,0
+15,Tue,62,08/10/2025,4,29,0,Chill,Green Curry with Chicken,0
+10,Tue,57,05/10/2025,4,29,1,Happy,Khao Man Gai,1
+15,Sat,66,04/10/2025,4,29,1,Chill,Green Curry with Chicken,1
+20,Fri,55,01/10/2025,1,26,1,Relax,Som Tum,0
+15,Wed,64,10/10/2025,5,29,1,Relax,Massaman Curry,1
+20,Thu,56,05/10/2025,2,28,1,Chill,Som Tum,0
+20,Mon,53,08/10/2025,1,26,0,Chill,Fried Rice with Shrimp,0
+10,Wed,57,09/10/2025,2,29,0,Energetic,Pad Thai,1
+10,Tue,56,01/10/2025,4,28,0,Happy,Pad Thai,0
+15,Mon,69,05/10/2025,3,30,1,Chill,Green Curry with Chicken,0
+10,Sat,62,08/10/2025,4,29,1,Energetic,Stir-fried Basil Chicken,0
+10,Fri,61,02/10/2025,5,27,0,Happy,Pad Thai,1
+15,Thu,68,10/10/2025,5,29,1,Relax,Crab Stick Salad Sandwich,0
+10,Wed,62,01/10/2025,3,27,1,Energetic,Pad Thai,0
+20,Wed,54,03/10/2025,2,26,1,Relax,Fried Rice with Shrimp,1
+15,Fri,60,06/10/2025,2,30,0,Relax,Green Curry with Chicken,1
+20,Tue,57,10/10/2025,5,26,0,Sad,Fried Rice with Shrimp,0
+10,Fri,59,02/10/2025,3,29,1,Energetic,Pad Thai,1
+20,Sat,55,01/10/2025,4,28,1,Chill,Tom Yum Soup,1
+10,Sun,63,01/10/2025,3,29,0,Energetic,Khao Man Gai,0
+15,Thu,60,01/10/2025,1,30,0,Chill,Green Curry with Chicken,1
+15,Sun,63,03/10/2025,4,30,0,Relax,Green Curry with Chicken,1
+20,Thu,54,01/10/2025,1,27,1,Sad,Fried Rice with Shrimp,0
+10,Fri,56,07/10/2025,3,27,1,Energetic,Khao Man Gai,1
+20,Tue,59,01/10/2025,3,27,0,Chill,Fried Rice with Shrimp,1
+10,Fri,58,08/10/2025,5,27,0,Happy,Stir-fried Basil Chicken,1
+10,Sun,57,01/10/2025,1,27,1,Happy,Pad Thai,1
+10,Wed,62,02/10/2025,2,27,1,Happy,Pad Thai,1
+15,Wed,67,07/10/2025,3,30,0,Chill,Green Curry with Chicken,1
+10,Sat,55,05/10/2025,2,29,1,Happy,Stir-fried Basil Chicken,1
+10,Sun,61,07/10/2025,3,28,1,Energetic,Khao Man Gai,1
+15,Sun,69,03/10/2025,4,29,1,Relax,Massaman Curry,1
+15,Mon,60,03/10/2025,5,30,1,Chill,Crab Stick Salad Sandwich,1
+15,Sun,64,03/10/2025,5,29,1,Relax,Green Curry with Chicken,0
+10,Sun,55,10/10/2025,2,28,0,Energetic,Stir-fried Basil Chicken,1
+15,Wed,60,05/10/2025,3,29,1,Relax,Massaman Curry,1
+20,Tue,54,02/10/2025,1,26,0,Relax,Som Tum,1
+20,Fri,53,10/10/2025,2,27,0,Relax,Tom Yum Soup,1
+10,Wed,65,02/10/2025,2,29,0,Happy,Stir-fried Basil Chicken,0
+15,Sun,70,04/10/2025,5,30,1,Relax,Massaman Curry,0
+10,Sat,55,02/10/2025,5,27,1,Happy,Khao Man Gai,1
+10,Tue,62,08/10/2025,5,29,0,Happy,Khao Man Gai,1
+20,Sun,59,08/10/2025,3,28,0,Relax,Fried Rice with Shrimp,1
+15,Wed,64,03/10/2025,5,29,1,Relax,Massaman Curry,1
+15,Mon,60,08/10/2025,4,29,0,Chill,Massaman Curry,1
+15,Tue,68,05/10/2025,5,30,1,Chill,Massaman Curry,0
+15,Sun,67,10/10/2025,4,30,0,Relax,Green Curry with Chicken,0
+20,Wed,57,01/10/2025,1,26,0,Chill,Som Tum,0
+10,Tue,55,09/10/2025,2,28,1,Energetic,Khao Man Gai,1
+20,Wed,54,09/10/2025,5,27,0,Relax,Som Tum,1
+20,Tue,52,06/10/2025,2,28,1,Relax,Som Tum,0
+15,Sat,62,05/10/2025,4,29,0,Chill,Crab Stick Salad Sandwich,1
+20,Sun,60,05/10/2025,4,26,0,Sad,Tom Yum Soup,1
+10,Tue,56,07/10/2025,3,27,1,Energetic,Stir-fried Basil Chicken,1
+15,Tue,62,09/10/2025,5,30,0,Relax,Crab Stick Salad Sandwich,1
+10,Fri,57,01/10/2025,3,27,1,Happy,Pad Thai,0
+15,Thu,70,08/10/2025,2,30,1,Chill,Crab Stick Salad Sandwich,0
+20,Sat,60,10/10/2025,1,28,0,Chill,Tom Yum Soup,0
+10,Mon,62,05/10/2025,3,28,1,Energetic,Pad Thai,1
+15,Tue,64,05/10/2025,3,29,1,Chill,Green Curry with Chicken,1
+20,Sat,60,07/10/2025,2,28,1,Chill,Tom Yum Soup,1
+20,Mon,56,03/10/2025,5,28,0,Chill,Tom Yum Soup,1
+10,Wed,56,06/10/2025,2,28,1,Energetic,Pad Thai,0
+10,Tue,63,10/10/2025,1,29,1,Energetic,Khao Man Gai,1
+10,Wed,59,04/10/2025,5,29,0,Happy,Khao Man Gai,0
+20,Thu,55,01/10/2025,2,28,1,Chill,Tom Yum Soup,1
+15,Sat,63,05/10/2025,4,29,1,Chill,Green Curry with Chicken,1
+10,Tue,64,10/10/2025,2,28,1,Happy,Stir-fried Basil Chicken,1
+20,Sat,52,03/10/2025,1,26,1,Relax,Fried Rice with Shrimp,1
+15,Wed,67,03/10/2025,2,29,1,Chill,Green Curry with Chicken,1
+10,Sun,58,08/10/2025,5,28,1,Happy,Pad Thai,1
+10,Sat,62,10/10/2025,3,27,0,Happy,Pad Thai,0
+20,Fri,50,03/10/2025,2,26,1,Sad,Fried Rice with Shrimp,1
+15,Sat,70,08/10/2025,3,30,1,Relax,Crab Stick Salad Sandwich,0
+20,Sun,55,05/10/2025,3,28,0,Sad,Tom Yum Soup,0
+15,Sun,70,06/10/2025,5,29,0,Chill,Massaman Curry,1
+10,Fri,58,07/10/2025,3,29,0,Energetic,Stir-fried Basil Chicken,1
+15,Wed,62,01/10/2025,5,30,1,Chill,Green Curry with Chicken,1
+15,Fri,67,05/10/2025,1,30,0,Relax,Crab Stick Salad Sandwich,0
+20,Sat,53,05/10/2025,4,26,0,Sad,Tom Yum Soup,0
+20,Sat,56,04/10/2025,2,26,0,Chill,Som Tum,0
+15,Sat,61,05/10/2025,4,29,0,Chill,Crab Stick Salad Sandwich,1
+10,Wed,58,05/10/2025,3,28,0,Energetic,Pad Thai,1
+15,Fri,67,04/10/2025,5,29,1,Chill,Green Curry with Chicken,1
+20,Thu,52,05/10/2025,5,28,1,Sad,Fried Rice with Shrimp,1
+20,Tue,58,09/10/2025,2,27,0,Sad,Som Tum,0
+15,Wed,68,10/10/2025,1,30,0,Chill,Crab Stick Salad Sandwich,0
+10,Tue,59,02/10/2025,4,27,0,Energetic,Stir-fried Basil Chicken,0
+20,Wed,55,08/10/2025,4,28,0,Relax,Fried Rice with Shrimp,1
+10,Mon,63,03/10/2025,1,27,1,Energetic,Khao Man Gai,0
+15,Wed,67,10/10/2025,1,30,0,Relax,Crab Stick Salad Sandwich,0
+10,Fri,63,08/10/2025,2,29,0,Energetic,Stir-fried Basil Chicken,1
+15,Fri,60,08/10/2025,3,29,1,Chill,Massaman Curry,1
+15,Mon,65,06/10/2025,5,30,0,Relax,Massaman Curry,1
+20,Fri,60,03/10/2025,5,27,1,Relax,Fried Rice with Shrimp,1
+20,Sun,58,08/10/2025,2,27,1,Sad,Som Tum,0
+15,Tue,67,01/10/2025,5,30,0,Relax,Green Curry with Chicken,1
+15,Mon,70,09/10/2025,4,29,0,Chill,Green Curry with Chicken,0
+10,Mon,57,06/10/2025,1,27,0,Happy,Stir-fried Basil Chicken,1
+20,Sun,58,08/10/2025,3,27,0,Chill,Tom Yum Soup,1
+20,Fri,56,01/10/2025,3,27,1,Relax,Tom Yum Soup,0
+10,Fri,63,03/10/2025,1,29,1,Happy,Stir-fried Basil Chicken,0
+15,Sun,63,05/10/2025,5,29,1,Chill,Massaman Curry,0
+10,Sun,65,05/10/2025,2,27,1,Energetic,Pad Thai,0
+10,Sun,55,03/10/2025,4,27,0,Energetic,Khao Man Gai,1
+10,Wed,61,06/10/2025,1,28,1,Happy,Khao Man Gai,0
+10,Thu,65,07/10/2025,1,29,0,Happy,Khao Man Gai,0
+15,Wed,66,02/10/2025,4,29,0,Relax,Crab Stick Salad Sandwich,1
+15,Thu,68,02/10/2025,1,29,0,Chill,Crab Stick Salad Sandwich,0
+15,Thu,62,02/10/2025,2,29,1,Chill,Crab Stick Salad Sandwich,1
+20,Sat,54,09/10/2025,4,26,0,Relax,Tom Yum Soup,0
+10,Thu,57,05/10/2025,4,29,0,Energetic,Stir-fried Basil Chicken,0
+15,Sat,65,04/10/2025,3,29,0,Chill,Crab Stick Salad Sandwich,1
+20,Sat,57,05/10/2025,4,28,0,Relax,Fried Rice with Shrimp,0
+10,Tue,58,08/10/2025,4,29,1,Energetic,Stir-fried Basil Chicken,1
+20,Fri,51,02/10/2025,5,28,0,Chill,Som Tum,1
+20,Mon,55,10/10/2025,5,27,1,Relax,Som Tum,1
+10,Wed,61,05/10/2025,2,27,1,Happy,Stir-fried Basil Chicken,0
+15,Sun,60,05/10/2025,1,30,1,Relax,Green Curry with Chicken,1
+15,Wed,67,07/10/2025,2,30,1,Relax,Green Curry with Chicken,0
+10,Sun,59,07/10/2025,1,27,0,Happy,Stir-fried Basil Chicken,0
+10,Sun,56,05/10/2025,1,29,1,Energetic,Khao Man Gai,1
+20,Wed,60,01/10/2025,1,26,0,Sad,Som Tum,0
+10,Sun,63,04/10/2025,2,27,1,Energetic,Pad Thai,1
+10,Mon,64,05/10/2025,4,27,0,Energetic,Pad Thai,0
+15,Wed,63,03/10/2025,5,30,1,Chill,Massaman Curry,0
+15,Sat,64,10/10/2025,4,30,0,Chill,Massaman Curry,0
+20,Thu,56,07/10/2025,4,27,0,Relax,Som Tum,0
+15,Wed,65,01/10/2025,3,30,0,Chill,Crab Stick Salad Sandwich,0
+10,Sat,55,07/10/2025,5,27,1,Happy,Pad Thai,0
+20,Wed,52,09/10/2025,1,26,1,Chill,Som Tum,1
+10,Mon,65,06/10/2025,5,29,0,Happy,Khao Man Gai,1
+20,Fri,57,03/10/2025,2,28,0,Chill,Fried Rice with Shrimp,0
+15,Fri,65,02/10/2025,4,29,0,Chill,Crab Stick Salad Sandwich,0
+20,Thu,55,06/10/2025,4,26,1,Sad,Som Tum,0
+10,Tue,56,01/10/2025,4,29,0,Happy,Pad Thai,1
+20,Wed,58,09/10/2025,5,26,0,Relax,Som Tum,0
+20,Sat,59,05/10/2025,5,27,1,Relax,Som Tum,1
+20,Sat,57,07/10/2025,5,26,1,Chill,Som Tum,0
+10,Thu,63,04/10/2025,3,27,1,Happy,Pad Thai,1
+10,Sat,63,10/10/2025,1,29,1,Happy,Khao Man Gai,0
+20,Tue,56,04/10/2025,4,27,0,Chill,Som Tum,1
+20,Mon,53,09/10/2025,5,26,1,Chill,Som Tum,1
+15,Wed,67,03/10/2025,1,30,0,Relax,Crab Stick Salad Sandwich,0
+10,Fri,60,01/10/2025,1,29,0,Happy,Stir-fried Basil Chicken,0
+15,Sat,69,01/10/2025,4,29,0,Relax,Massaman Curry,1
+20,Tue,59,03/10/2025,2,27,0,Chill,Tom Yum Soup,0
+20,Sat,58,03/10/2025,5,26,0,Sad,Tom Yum Soup,1
+20,Mon,58,09/10/2025,3,27,0,Sad,Tom Yum Soup,1
+10,Sat,63,07/10/2025,1,29,1,Energetic,Stir-fried Basil Chicken,0
+10,Thu,57,01/10/2025,2,27,0,Happy,Khao Man Gai,0
+15,Tue,60,03/10/2025,2,29,0,Relax,Massaman Curry,1
+10,Thu,60,09/10/2025,3,29,1,Energetic,Pad Thai,1
+10,Fri,56,09/10/2025,5,29,1,Energetic,Khao Man Gai,0
+20,Mon,58,08/10/2025,4,27,0,Relax,Som Tum,0
+15,Sat,68,03/10/2025,4,29,1,Relax,Massaman Curry,1
+20,Fri,55,01/10/2025,1,27,1,Relax,Tom Yum Soup,0
+15,Thu,69,01/10/2025,5,29,0,Relax,Massaman Curry,0
+20,Mon,53,02/10/2025,1,27,1,Chill,Som Tum,1
+20,Tue,56,06/10/2025,3,26,0,Sad,Fried Rice with Shrimp,1
+20,Sat,60,06/10/2025,3,26,1,Sad,Tom Yum Soup,1
+15,Wed,70,08/10/2025,5,30,1,Relax,Massaman Curry,1
+20,Thu,56,10/10/2025,3,26,1,Relax,Tom Yum Soup,0
+15,Sat,63,07/10/2025,5,30,0,Relax,Crab Stick Salad Sandwich,0
+20,Fri,50,03/10/2025,4,28,1,Chill,Som Tum,1
+20,Wed,59,06/10/2025,1,26,1,Chill,Tom Yum Soup,1
+15,Tue,61,01/10/2025,3,30,0,Relax,Green Curry with Chicken,1
+15,Mon,70,07/10/2025,3,29,1,Chill,Massaman Curry,0
+15,Sat,68,04/10/2025,5,29,0,Relax,Crab Stick Salad Sandwich,1
+20,Mon,58,03/10/2025,5,27,1,Relax,Fried Rice with Shrimp,0
+10,Tue,63,06/10/2025,5,27,0,Happy,Stir-fried Basil Chicken,0
+20,Mon,50,02/10/2025,5,28,1,Chill,Som Tum,1
+20,Fri,51,03/10/2025,2,26,1,Relax,Tom Yum Soup,0
+10,Sun,60,03/10/2025,3,29,0,Energetic,Stir-fried Basil Chicken,1
+10,Fri,65,02/10/2025,1,27,1,Happy,Pad Thai,1
+15,Tue,62,10/10/2025,1,30,0,Chill,Green Curry with Chicken,1
+15,Fri,64,07/10/2025,4,30,1,Chill,Massaman Curry,0
+20,Fri,55,10/10/2025,1,26,1,Chill,Tom Yum Soup,0
+10,Fri,60,02/10/2025,3,28,0,Happy,Pad Thai,0
+15,Sun,69,10/10/2025,1,30,1,Relax,Crab Stick Salad Sandwich,0
+15,Sat,69,10/10/2025,4,29,0,Relax,Massaman Curry,1
+20,Sat,57,09/10/2025,3,27,1,Sad,Som Tum,1
+10,Sat,57,10/10/2025,4,29,1,Happy,Khao Man Gai,1
+10,Wed,55,08/10/2025,5,28,0,Happy,Khao Man Gai,0
+20,Fri,53,03/10/2025,4,28,1,Chill,Som Tum,0
+20,Mon,51,03/10/2025,1,28,0,Relax,Tom Yum Soup,1
+20,Sun,55,01/10/2025,5,28,0,Chill,Fried Rice with Shrimp,1
+20,Mon,59,10/10/2025,5,27,0,Sad,Tom Yum Soup,1
+15,Mon,66,04/10/2025,2,30,0,Relax,Massaman Curry,1
+15,Sat,68,04/10/2025,4,30,1,Relax,Crab Stick Salad Sandwich,0
+10,Fri,58,05/10/2025,2,28,1,Happy,Stir-fried Basil Chicken,0
+20,Sat,57,08/10/2025,2,27,1,Chill,Som Tum,0
+15,Sun,68,05/10/2025,2,29,1,Relax,Crab Stick Salad Sandwich,1
+20,Wed,52,07/10/2025,5,26,0,Sad,Fried Rice with Shrimp,0
+20,Thu,60,09/10/2025,3,26,0,Sad,Tom Yum Soup,0
+10,Mon,62,08/10/2025,1,27,0,Energetic,Khao Man Gai,0
+15,Fri,70,04/10/2025,2,29,1,Chill,Green Curry with Chicken,1
+10,Fri,58,06/10/2025,5,29,1,Happy,Khao Man Gai,1
+15,Mon,62,03/10/2025,5,30,1,Relax,Green Curry with Chicken,1
+20,Mon,51,09/10/2025,2,28,0,Sad,Fried Rice with Shrimp,0
+20,Mon,58,05/10/2025,5,27,0,Relax,Som Tum,0
+15,Mon,65,02/10/2025,4,29,1,Relax,Massaman Curry,1
+20,Fri,54,06/10/2025,2,26,1,Sad,Tom Yum Soup,1
+15,Tue,69,06/10/2025,3,30,1,Chill,Green Curry with Chicken,0
+10,Thu,61,09/10/2025,1,29,1,Happy,Khao Man Gai,0
+20,Tue,50,07/10/2025,5,27,0,Chill,Fried Rice with Shrimp,1
+20,Sun,51,10/10/2025,5,26,0,Chill,Som Tum,1
+15,Mon,67,03/10/2025,3,29,1,Chill,Massaman Curry,0
+10,Thu,64,03/10/2025,3,27,1,Energetic,Pad Thai,0
+10,Sun,62,10/10/2025,4,29,1,Energetic,Pad Thai,0
+20,Thu,50,08/10/2025,5,28,0,Relax,Fried Rice with Shrimp,1
+10,Tue,62,09/10/2025,5,27,0,Energetic,Pad Thai,0
+10,Thu,64,07/10/2025,1,28,1,Energetic,Stir-fried Basil Chicken,1
+20,Fri,58,09/10/2025,1,27,1,Relax,Som Tum,1
+20,Sun,55,08/10/2025,4,27,1,Sad,Fried Rice with Shrimp,0
+15,Wed,62,03/10/2025,5,30,1,Chill,Green Curry with Chicken,1
+15,Sat,67,03/10/2025,1,29,1,Relax,Crab Stick Salad Sandwich,0
+10,Wed,57,07/10/2025,2,28,1,Energetic,Stir-fried Basil Chicken,0
+15,Sun,70,02/10/2025,1,29,1,Relax,Crab Stick Salad Sandwich,1
+15,Sat,64,09/10/2025,1,30,1,Chill,Crab Stick Salad Sandwich,0
+15,Mon,70,10/10/2025,4,30,1,Chill,Massaman Curry,1
+15,Thu,67,07/10/2025,1,30,1,Relax,Crab Stick Salad Sandwich,1
+20,Sun,54,01/10/2025,4,27,0,Relax,Tom Yum Soup,1
+20,Sat,55,06/10/2025,5,27,1,Chill,Fried Rice with Shrimp,0
+20,Tue,52,04/10/2025,3,28,1,Sad,Som Tum,1
+20,Wed,54,03/10/2025,5,26,1,Chill,Fried Rice with Shrimp,0
+15,Thu,67,05/10/2025,3,30,0,Chill,Crab Stick Salad Sandwich,0
+20,Tue,52,09/10/2025,4,28,0,Sad,Som Tum,0
+20,Sun,57,05/10/2025,2,28,0,Sad,Tom Yum Soup,1
+15,Sun,65,09/10/2025,5,30,0,Chill,Massaman Curry,1
+20,Wed,50,05/10/2025,4,27,1,Chill,Tom Yum Soup,1
+20,Tue,55,04/10/2025,1,26,0,Chill,Tom Yum Soup,1
+20,Sat,58,08/10/2025,2,28,0,Sad,Som Tum,1
+20,Sat,58,07/10/2025,2,27,0,Sad,Som Tum,0
+10,Sat,63,01/10/2025,4,27,1,Energetic,Pad Thai,1
+20,Thu,51,01/10/2025,5,27,1,Sad,Som Tum,0
+15,Sat,68,03/10/2025,2,29,1,Relax,Green Curry with Chicken,1
+20,Wed,59,02/10/2025,2,28,1,Sad,Tom Yum Soup,0
+10,Mon,60,01/10/2025,3,29,1,Happy,Pad Thai,1
+20,Thu,60,07/10/2025,1,28,1,Sad,Som Tum,1
+15,Mon,65,10/10/2025,4,30,0,Chill,Green Curry with Chicken,0
+20,Mon,51,10/10/2025,3,26,1,Relax,Fried Rice with Shrimp,1
+15,Fri,65,02/10/2025,4,29,1,Chill,Green Curry with Chicken,0
+10,Tue,62,03/10/2025,1,29,0,Happy,Stir-fried Basil Chicken,0
+10,Sun,64,02/10/2025,5,29,0,Happy,Khao Man Gai,0
+10,Tue,62,10/10/2025,5,29,1,Energetic,Pad Thai,0
+10,Sun,62,05/10/2025,2,28,1,Happy,Stir-fried Basil Chicken,1
+10,Tue,59,08/10/2025,2,29,0,Happy,Pad Thai,0
+20,Fri,60,02/10/2025,1,26,0,Chill,Som Tum,1
+15,Fri,62,08/10/2025,4,29,1,Relax,Crab Stick Salad Sandwich,1
+10,Sun,60,10/10/2025,5,27,0,Energetic,Pad Thai,0
+15,Wed,69,05/10/2025,1,30,1,Chill,Massaman Curry,0
+20,Sun,55,09/10/2025,2,26,0,Sad,Som Tum,1
+15,Fri,66,01/10/2025,1,29,1,Chill,Massaman Curry,1
+20,Thu,52,10/10/2025,2,27,1,Relax,Tom Yum Soup,0
+10,Mon,55,02/10/2025,2,28,1,Energetic,Stir-fried Basil Chicken,0
+15,Thu,61,04/10/2025,3,30,1,Relax,Crab Stick Salad Sandwich,1
+10,Sat,65,05/10/2025,4,28,1,Energetic,Stir-fried Basil Chicken,0
+15,Tue,69,09/10/2025,3,29,0,Relax,Massaman Curry,0
+20,Sun,55,01/10/2025,1,28,0,Sad,Tom Yum Soup,0
+15,Tue,68,01/10/2025,1,29,0,Relax,Crab Stick Salad Sandwich,0
+20,Sat,58,02/10/2025,3,27,1,Sad,Fried Rice with Shrimp,1
+20,Sun,58,04/10/2025,1,28,0,Chill,Tom Yum Soup,0
+10,Mon,55,05/10/2025,1,28,1,Energetic,Khao Man Gai,1
+10,Sun,61,02/10/2025,1,27,1,Happy,Stir-fried Basil Chicken,0
+10,Thu,63,08/10/2025,3,27,0,Happy,Stir-fried Basil Chicken,1
+10,Mon,65,07/10/2025,4,28,0,Energetic,Pad Thai,1
+10,Sat,62,10/10/2025,2,28,1,Happy,Stir-fried Basil Chicken,0
+15,Sun,67,06/10/2025,2,30,1,Chill,Green Curry with Chicken,0
+20,Tue,58,02/10/2025,5,27,0,Chill,Som Tum,0
+10,Wed,63,01/10/2025,4,28,1,Energetic,Khao Man Gai,0
+20,Fri,52,01/10/2025,5,26,0,Relax,Som Tum,1
+15,Tue,63,06/10/2025,5,29,0,Relax,Massaman Curry,0
+10,Thu,60,03/10/2025,5,27,1,Happy,Khao Man Gai,0
+10,Tue,63,02/10/2025,1,28,0,Happy,Pad Thai,0
+10,Sun,65,07/10/2025,3,29,1,Energetic,Pad Thai,1
+15,Mon,66,07/10/2025,3,29,0,Chill,Green Curry with Chicken,0
+15,Thu,62,10/10/2025,3,30,0,Relax,Massaman Curry,0
+15,Sun,63,01/10/2025,1,30,1,Relax,Massaman Curry,0
+15,Wed,63,03/10/2025,5,29,0,Chill,Crab Stick Salad Sandwich,1
+20,Fri,53,06/10/2025,2,27,0,Chill,Fried Rice with Shrimp,0
+10,Sat,59,07/10/2025,3,27,1,Happy,Stir-fried Basil Chicken,0
+10,Sun,65,08/10/2025,1,29,0,Happy,Stir-fried Basil Chicken,0
+15,Wed,70,08/10/2025,2,30,1,Chill,Green Curry with Chicken,1
+20,Mon,60,05/10/2025,5,27,1,Relax,Som Tum,1
+20,Thu,58,08/10/2025,1,26,1,Relax,Som Tum,1
+10,Sun,57,06/10/2025,1,29,1,Happy,Stir-fried Basil Chicken,0
+20,Tue,54,08/10/2025,3,27,0,Sad,Fried Rice with Shrimp,0
+10,Fri,61,09/10/2025,4,28,1,Energetic,Khao Man Gai,0
+15,Mon,65,08/10/2025,3,30,0,Chill,Massaman Curry,0
+10,Fri,64,09/10/2025,4,28,0,Energetic,Khao Man Gai,0
+20,Tue,50,10/10/2025,2,27,0,Chill,Tom Yum Soup,0
+15,Wed,60,07/10/2025,5,29,1,Relax,Green Curry with Chicken,0
+15,Sat,61,02/10/2025,3,29,0,Relax,Massaman Curry,1
+10,Fri,63,02/10/2025,2,29,1,Happy,Stir-fried Basil Chicken,0
+15,Thu,61,08/10/2025,4,29,0,Chill,Massaman Curry,1
+10,Wed,57,05/10/2025,3,27,1,Energetic,Pad Thai,1
+20,Tue,56,03/10/2025,5,26,0,Sad,Som Tum,0
+20,Fri,57,04/10/2025,2,28,1,Relax,Tom Yum Soup,1
+15,Fri,64,06/10/2025,2,29,1,Relax,Massaman Curry,0
+20,Mon,54,06/10/2025,3,26,0,Sad,Tom Yum Soup,1
+15,Mon,70,09/10/2025,5,30,1,Chill,Crab Stick Salad Sandwich,0
+15,Fri,69,02/10/2025,4,30,1,Chill,Crab Stick Salad Sandwich,1
+15,Mon,62,10/10/2025,4,29,0,Chill,Crab Stick Salad Sandwich,0
+15,Wed,62,08/10/2025,1,29,1,Relax,Massaman Curry,0
+10,Fri,65,10/10/2025,3,28,1,Energetic,Pad Thai,0
+15,Mon,62,09/10/2025,1,29,0,Chill,Green Curry with Chicken,1
+15,Sun,61,09/10/2025,3,29,1,Relax,Massaman Curry,0
